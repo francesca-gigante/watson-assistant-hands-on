@@ -1,5 +1,5 @@
 # watson-assistant-hands-on
-Questo progetto contiene il tutorial e il file json per costruire una semplice chatbot costruita con IBM Watson Assistant.
+Questo progetto contiene il tutorial e il file json per costruire una semplice chatbot utilizzando il Cloud IBM ed in paticolar modo il servizio Watson Assistant.
 
 Per poter eseguire l'esercitazione inclusa nel tutorial è necessario avere un account IBM Cloud; i passi necessari per la creazione dell'account sono descritti nella prima parte del tutorial subito dopo l'introduzione.
 
